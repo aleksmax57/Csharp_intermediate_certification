@@ -1,5 +1,5 @@
 Первое задание в файле ExamFils
 
-Второе в фале ExamFile2
+Второе в фале ExamFile3
 
-Третье - в файле ExamFile3
+Третье - в файле ExamFile2
